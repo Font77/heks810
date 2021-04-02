@@ -1,6 +1,8 @@
-### ascii510(5+5=10=?X?) -> ascii810(8+8=10=4X4)  
-### roboto510(5+5=10=?X?) -> roboto810(8+8=10=4X4)   
-# hpop kibord phur qndroed (Android)
+### this repo has programmer's calculator Android app hksuletr.apk vhich can be installed on Android mobile.
+
+### for zinglish/scotlish unicase font , there is softkeyboard app hpop_u5.apk vhich can be installed in Android mobile.
+
+### for zinglish/scotlish unicase font , there is font u5.ttf , vhich can be installed using zfont 3 app in mobile.
 ![hpop imej giphy](https://media.giphy.com/media/BZ78kudbc1xy5C1Wp2/giphy.gif)
 ![heksadesiml mqxhs](https://media.giphy.com/media/H69JHPOAQLNfT0OgPv/giphy.gif) 
 [cart](https://gfycat.com/gargantuancourteousasp)
